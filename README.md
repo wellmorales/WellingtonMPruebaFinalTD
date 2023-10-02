@@ -37,6 +37,9 @@ Se utilizo segun lo explicado en clase MongoDB para guardar la informacion junto
 ## CASO
 Se pretende realizar un scraping a la pagina de PeliPluss con el objetivo de obtener el nombre de las peliculas mas reciente y recomendadas de esta pagina
 
+# Diagrama a analizar extraido de excalidraw
+![img_2.png](img_2.png)
+
 ## Analisis de la pagina
 
 Se obtiene el contenido de la pagina con las siguientes sentencias de codigo de la URL: https://pelisplus.ai/
